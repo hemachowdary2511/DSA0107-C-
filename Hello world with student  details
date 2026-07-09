@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+
+int main()
+{
+    cout << "Hello World!" << endl;
+    cout << "Name: Hema chowdary" << endl;
+    cout << "Department: Computer Science and Engineering" << endl;
+    cout << "Year of Study: 3rd Year" << endl;
+
+    return 0;
+}
